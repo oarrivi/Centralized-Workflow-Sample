@@ -7,3 +7,4 @@ Empieza aqui.
 Fin de la funcionalidad
 
 ## Feature 2 ##
+Implementación de la funcionalidad.
